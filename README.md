@@ -3,8 +3,16 @@
 ## Overview
 This project presents a system for detecting traffic signs in images using artificial intelligence.  
 The system is based on a YOLO object detection model and highlights detected traffic signs using bounding boxes.
+The system uses a YOLO-based object detection model for detecting traffic signs.
 
 This project was developed as part of an Autonomous Vehicles course.
+
+## How to Run
+
+1. Open the notebook in Google Colab  
+2. Upload an image  
+3. Run all cells  
+4. View detection results  
 
 ---
 
