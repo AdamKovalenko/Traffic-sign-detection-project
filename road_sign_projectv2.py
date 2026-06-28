@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/github/AdamKovalenko/Traffic-sign-detection-project/blob/main/Road_Sign_ProjectV2.ipynb
 """
 
-!pip install -q inference-sdk opencv-python
+!pip install -q pillow==11.3.0 inference-sdk opencv-python
 
 import cv2
 import numpy as np
