@@ -7,6 +7,18 @@ The system uses a YOLO-based object detection model for detecting traffic signs.
 
 This project was developed as part of an Autonomous Vehicles course.
 
+## Requirements
+
+- Python 3.10 or newer
+- Google Colab
+- Roboflow API Key
+
+Install all required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## How to Run
 
 1. Open the notebook in Google Colab  
